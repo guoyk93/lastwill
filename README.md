@@ -1,2 +1,3 @@
-# lastwill
-redirect guoyk93.github.io/lastwill to yankeguo.github.io/lastwill
+# Yanke Guo's Lastwill
+
+Please visit https://yankeguo.github.io/lastwill
