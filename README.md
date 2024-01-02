@@ -1,3 +1,1 @@
-# Yanke Guo's Lastwill
-
-Please visit https://yankeguo.github.io/lastwill
+Please visit [https://yankeguo.github.io/lastwill](https://yankeguo.github.io/lastwill)
